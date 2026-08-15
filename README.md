@@ -1,7 +1,7 @@
 ## Hi there 👋   I'm Alicja!  👧 
 
 
-### junior frontend developer from Poland!
+### frontend developer from Poland!
 
 Learning new languages and frameworks is like incredible life adventure 😁 You can check out my [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alicjalatala/)
 
